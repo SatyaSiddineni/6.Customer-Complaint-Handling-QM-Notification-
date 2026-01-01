@@ -35,12 +35,15 @@ This project provides a complete, end-to-end explanation of how Customer Complai
         Customer-Complaint-Handling-QM-Notification/
         │
         ├── README.md
+        ├── Documentation/
+        │   └── Customer Complaint Handling Process Documentation.pdf
+        │
         ├── Flowchart/
         │   └── Customer complaint flowchart.png
-        ├── Test_Data/
-        │   └── Sample test data.xlsx
-        └── Documentation/
-            └── Customer Complaint Handling Process Documentation.pdf
+        │
+        └── Test_Data/
+            └── Sample test data.xlsx
+        
 
 
 🙌 Author
